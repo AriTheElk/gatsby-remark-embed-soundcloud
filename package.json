@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-embed-soundcloud",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Gatsby Remark Plugin for Embedding Soundcloud Songs",
   "main": "index.js",
   "author": "Garet McKInley <self@garet.io>",
