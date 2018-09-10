@@ -2,6 +2,8 @@
 
 Embed Soundcloud songs and sets in your markdown files!
 
+### [View a live demo here](https://words.garet.io/gatsby-remark-embed-soundcloud/)
+
 ## Install
 
 1. Install plugin to your site:
