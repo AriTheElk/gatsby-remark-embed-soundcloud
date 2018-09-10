@@ -33,7 +33,9 @@ yarn add gatsby-remark-embed-soundcloud
 ```markdown
 ## My blog post
 
-This is an example of embedding a single soundcloud track. Just type your markdown as you normally do, and then insert a valid soundcloud link anywhere to automatically transform it into an embed!
+This is an example of embedding a single soundcloud track.
+Just type your markdown as you normally do, and then insert a valid
+soundcloud link anywhere to automatically transform it into an embed!
 
 https://soundcloud.com/gareteliot/beacons
 
